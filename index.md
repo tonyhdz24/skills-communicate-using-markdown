@@ -6,3 +6,8 @@
 ###### Header 6
 
 ![Image of cat](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/800px-Cat03.jpg)
+
+``` python
+def hello_world():
+    print("Hello, World!")
+```
